@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>subtitle</key>
+		<string>Kashmiri Gate</string>
+		<key>title</key>
+		<string>ISBT Delhi</string>
+		<key>latitude</key>
+		<real>28.66910499999999</real>
+		<key>longitude</key>
+		<real>77.22892100000001</real>
+	</dict>
+	<dict>
+		<key>subtitle</key>
+		<string>International Airport</string>
+		<key>title</key>
+		<string>Indira Gandhi Airport</string>
+		<key>latitude</key>
+		<real>28.5583</real>
+		<key>longitude</key>
+		<real>77.09399999999999</real>
+	</dict>
+	<dict>
+		<key>subtitle</key>
+		<string>Metro Station of delhi</string>
+		<key>title</key>
+		<string>Rajiv Chowk</string>
+		<key>latitude</key>
+		<real>28.5686</real>
+		<key>longitude</key>
+		<real>77.1122</real>
+	</dict>
+	<dict>
+		<key>subtitle</key>
+		<string>Metro station of gurgaon</string>
+		<key>title</key>
+		<string>Huda City Centre</string>
+		<key>latitude</key>
+		<real>28.459267</real>
+		<key>longitude</key>
+		<real>77.07268399</real>
+	</dict>
+</array>
+</plist>
